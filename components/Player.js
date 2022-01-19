@@ -109,7 +109,7 @@ function Player() {
 
   return (
     <div
-      className="h-24 bg-gradient-to-b from-black h-24 bg-gradient-to-b from-black 
+      className="h-24 bg-gradient-to-b from-black 
     to-gray-900 text-white grid grid-cols-3 text-xs md:text-base px-2 md:px-8o"
     >
       {/* Left of player */}

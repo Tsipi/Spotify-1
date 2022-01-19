@@ -112,7 +112,7 @@ function Player() {
       className="h-24 bg-gradient-to-b from-black 
     to-gray-900 text-white grid grid-cols-3 text-xs md:text-base px-2 md:px-8o"
     >
-      {/* Left of player */}
+      {/* Left of player Tsipi Test */}
       <div className="flex items-center space-x-4">
         <img
           className="hidden md:inline w-10 h-10"
